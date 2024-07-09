@@ -1,4 +1,4 @@
-# House-Prices---Advanced-Regression-Techniques
+# House-Prices-Advanced-Regression-Techniques
 predicting house prices
 ## Project Overview
 This project focuses on predicting house prices using advanced regression techniques. The dataset contains 81 features describing various properties of houses. The goal is to build a machine learning model that accurately predicts the sale price of a house based on these features. The project involves data preprocessing, feature engineering, model selection, and hyperparameter tuning.
